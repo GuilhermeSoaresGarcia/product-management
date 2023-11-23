@@ -1,6 +1,6 @@
 package com.example.productmanagement.model.repositories;
 
-import java.util.Locale.Category;
+import com.example.productmanagement.model.entities.Category;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
